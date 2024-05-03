@@ -1,4 +1,4 @@
-# CSE527AProj_llm_attack
+# CSE527A_llm_attack
 
 Usage:
 
