@@ -1,5 +1,7 @@
 # CSE527A_llm_attack
 
+This repository replicates LLM attacks using Mandarin Chinese based on the methods introduced by [Universal and Transferable Adversarial Attacks on Aligned Language Models]([https://link-url-here.org](https://arxiv.org/abs/2307.15043)) " by Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, and Matt Fredrikson.
+
 Usage:
 
 Download repo of https://github.com/llm-attacks/llm-attacks
