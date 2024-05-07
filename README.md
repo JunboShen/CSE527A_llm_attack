@@ -1,6 +1,6 @@
 # Attacks on LLMs using Mandarin Chinese
 
-This is my mini project in an NLP class I took at Washington University in St. Louis.
+This is my mini toy project in an NLP class I took at Washington University in St. Louis.
 
 This repository replicates LLM attacks in Mandarin Chinese using the method and dataset given in "[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)" by Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, and Matt Fredrikson.
 
