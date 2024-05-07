@@ -1,6 +1,6 @@
 # CSE527A_llm_attack
 
-A mini project for CSE527A Natural Language Processing
+Attacks on LLMs using Mandarin Chinese, a mini project in NLP class at Washington University in St. Louis.
 
 This repository replicates LLM attacks using Mandarin Chinese using the method and dataset introduced in "[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)" by Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, and Matt Fredrikson.
 
